@@ -1,0 +1,452 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 516.40
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - New gamepad attached:
+[INFO] - Description: XInput Controller 1
+[INFO] - Vendor ID: 1118
+[INFO] - Product ID: 654
+[INFO] - Number of axes: 6
+[INFO] - Number of buttons: 15
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 736 KB and 411 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 787 KB and 698 bytes
+[INFO] - Binding of Isaac: Repentance v1.7.8a.0000
+[INFO] - load archives: 10725 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Display Hz: 75, Target: 60.. disabling vsync for this session.
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 3440x1440
+[INFO] - Renderbuffer ID: 1 size 2048x1024
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 1376 
+ Window Width: 3440 
+ Multiplier: 5.999990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - [warn] SteamCloud is either not available or disabled in Options.ini.
+[INFO] - begin list mods
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/!!!!!unique megaisaacs_2697721144/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/!!!!!unique minisaacs_2622137368/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/animated costumes (rep)_2513220363/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/animated machines_2647693221/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/antibirth music++_1547034524/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/anticrash_2784448102/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/apeshit floor_2556580572/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/ballsofsteel_834182998/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/better character menu_835236871/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/better coop item pedestals_2491785532/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/better monstrance aura_2508834844/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/billy bombs_2539404252/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/boss rush wave counter_2492654252/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/bruh_sound_1887222480/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/character based isaac_2563988750/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/clear_tears_button_2758700407/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/consistent_bb_sprites_2493017585/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/crewmateplum_2502491377/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/curse disabler_841243221/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/custom mr dollys_2489635144/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/customstartingitems_1727600074/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/da rules_2403871374/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/damage-multiplier-stat_2729900570/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dark arts master challenge_2487771325/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dark edmund_2676221571/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dark-arts-notify_2543266485/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dark_arts_indicator/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dark_arts_indicator_2542021243/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/destination-indicator_2509768985/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/detailed_respawn_rep_2729252633/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/discordadvancerichpresence_2240832659/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/dwayne the tinted rock johnson repentance_2487526158/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/edmund is dark essau_2675619991/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/enhanced boss bars_2635267643/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/existential dread lost_2507534207/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/external item descriptions_836319872/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/extra scared hearts_2559137447/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/giantbook_disabler_834418950/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/glizzy_2563636967/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/goodtrip_1630477831/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/grayfruit megamod_2654603807/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/hanging dream catcher_2518709898/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/hdcutscenes_2783467735/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/holymantle_true_2490690015/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/i forgor_2557289260/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/i forgor_2560771500/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/legostuds_2545704175/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/legoyodadeathscream_2562074136/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/lemegeton item list_2511296848/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/liltimer_2705902412/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/lump fix_2579514339/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/metalslugexplosion_2572597778/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/mother continue_2493403665/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/mummy_python_2491253020/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/musicar_2788006730/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/neko hush_2491268070/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/neverbreakfast_965856585/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/no-more-hidden-enemies_2499318289/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/noemptypedestals_1545326451/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/nohealthcap_1306762111/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/nopickupcap_1309404579/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/oh my gooood_2545861028/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/planetarium chance_2489006943/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/ragman but i made the sounds_2503453238/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/scaling lasers_867787777/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/shboom for good items as tained cain_2564264969/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/skill_issue_2652205902/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/specialistforgooditems_2575911103/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/spunchbop_2543419501/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/taco bell hearts_2534763674/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/the beast laughs when you take damage_2751687643/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/the bibble_2487554208/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/the virgin and the chad_2558418961/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/timemachine_2617557401/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/tradeoffer_2529216104/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/trash issac's last will_2489052276/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/ughforbaditems_2493551842/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/unintrusive pause menu_2769063897/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/unique minitransformations_2642961648/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/unique vomit grimace sprite_2499552332/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/unique_birthrights_2690434875/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/very haunted chests_2487822714/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/visible_lost_health_2497320263/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/walking sacks resprite_2795927735/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/yaeid_1144059613/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/yaeid_base_en_1144060649/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/youhaveuno_2494064296/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/�quieres' head and body_2794361050/content/
+[INFO] - HQX4 size: 1376x576
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/external item descriptions_836319872/main.lua
+[INFO] - Lua mem usage: 6003 KB and 306 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/detailed_respawn_rep_2729252633/main.lua
+[INFO] - Lua Debug: detailed respawn initialized.
+[INFO] - Lua mem usage: 7551 KB and 670 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/clear_tears_button_2758700407/main.lua
+[INFO] - Lua mem usage: 7554 KB and 824 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/enhanced boss bars_2635267643/main.lua
+[INFO] - Lua mem usage: 7685 KB and 640 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/animated costumes (rep)_2513220363/main.lua
+[INFO] - Lua mem usage: 7687 KB and 936 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/anticrash_2784448102/main.lua
+[INFO] - Lua mem usage: 7701 KB and 744 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/antibirth music++_1547034524/main.lua
+[INFO] - Lua mem usage: 7714 KB and 794 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/boss rush wave counter_2492654252/main.lua
+[INFO] - Lua mem usage: 7736 KB and 478 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/musicar_2788006730/main.lua
+[INFO] - Lua mem usage: 7845 KB and 201 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/curse disabler_841243221/main.lua
+[INFO] - Lua mem usage: 7846 KB and 401 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/custom mr dollys_2489635144/main.lua
+[INFO] - Lua mem usage: 7849 KB and 58 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/damage-multiplier-stat_2729900570/main.lua
+[INFO] - Lua mem usage: 7878 KB and 712 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/dark-arts-notify_2543266485/main.lua
+[INFO] - Lua Debug: Dark Arts Audio Indicator initialized.
+[INFO] - Lua mem usage: 7880 KB and 389 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/dark_arts_indicator_2542021243/main.lua
+[INFO] - Lua mem usage: 7884 KB and 782 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/destination-indicator_2509768985/main.lua
+[INFO] - Lua Debug: isaac-destination-indicator initialized.
+[INFO] - Lua mem usage: 7895 KB and 557 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/giantbook_disabler_834418950/main.lua
+[INFO] - Lua mem usage: 7905 KB and 86 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/discordadvancerichpresence_2240832659/main.lua
+[INFO] - Lua mem usage: 7941 KB and 443 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/extra scared hearts_2559137447/main.lua
+[INFO] - Lua mem usage: 7946 KB and 243 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/goodtrip_1630477831/main.lua
+[INFO] - Lua mem usage: 7992 KB and 823 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/hanging dream catcher_2518709898/main.lua
+[INFO] - Lua mem usage: 7997 KB and 563 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/lemegeton item list_2511296848/main.lua
+[INFO] - Lua mem usage: 8005 KB and 718 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/liltimer_2705902412/main.lua
+[INFO] - Lua mem usage: 8139 KB and 280 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/lump fix_2579514339/main.lua
+[INFO] - Lua mem usage: 8141 KB and 242 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/neverbreakfast_965856585/main.lua
+[INFO] - Lua mem usage: 8143 KB and 51 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/noemptypedestals_1545326451/main.lua
+[INFO] - Lua mem usage: 8144 KB and 111 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/no-more-hidden-enemies_2499318289/main.lua
+[INFO] - Lua mem usage: 8148 KB and 131 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/nopickupcap_1309404579/main.lua
+[INFO] - Lua mem usage: 8176 KB and 590 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/planetarium chance_2489006943/main.lua
+[INFO] - Lua mem usage: 8192 KB and 305 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/mother continue_2493403665/main.lua
+[INFO] - Lua mem usage: 8209 KB and 740 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/scaling lasers_867787777/main.lua
+[INFO] - Lua mem usage: 8212 KB and 535 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/skill_issue_2652205902/main.lua
+[INFO] - Lua mem usage: 8352 KB and 864 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/the beast laughs when you take damage_2751687643/main.lua
+[INFO] - Lua mem usage: 8354 KB and 873 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/specialistforgooditems_2575911103/main.lua
+[INFO] - Lua mem usage: 8373 KB and 599 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/timemachine_2617557401/main.lua
+[INFO] - Lua mem usage: 8381 KB and 663 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/ughforbaditems_2493551842/main.lua
+[INFO] - Lua mem usage: 8394 KB and 126 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/unique_birthrights_2690434875/main.lua
+[INFO] - Lua mem usage: 8400 KB and 896 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/character based isaac_2563988750/main.lua
+[INFO] - Lua mem usage: 8409 KB and 189 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/!!!!!unique minisaacs_2622137368/main.lua
+[INFO] - Lua mem usage: 8454 KB and 373 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/better coop item pedestals_2491785532/main.lua
+[INFO] - Lua mem usage: 8469 KB and 256 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/customstartingitems_1727600074/main.lua
+[INFO] - Lua mem usage: 8497 KB and 835 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/unintrusive pause menu_2769063897/main.lua
+[INFO] - Lua mem usage: 8490 KB and 388 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/unique minitransformations_2642961648/main.lua
+[INFO] - Lua mem usage: 8528 KB and 794 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/�quieres' head and body_2794361050/main.lua
+[INFO] - Lua mem usage: 8532 KB and 130 bytes
+[INFO] - Viewport: 3440x1440
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 1376 
+ Window Width: 3440 
+ Multiplier: 5.999990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 1 size 4096x2048
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 3440 
+ Window Width: 960 
+ Multiplier: 0.500000 
+ DP per point: 4.000000 
+ Point Scale: 2.000000 
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 3440 
+ Window Width: 3440 
+ Multiplier: 0.139535 
+ DP per point: 1.000000 
+ Point Scale: 7.166667 
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 3440 
+ Window Width: 3440 
+ Multiplier: 0.124128 
+ DP per point: 1.000000 
+ Point Scale: 8.056206 
+[INFO] - HQX4 size: 3440x1440
+[INFO] - Cutscene: correct anm2 timing: f0 -> f4
+[INFO] - Cutscene: correct anm2 timing: f4 -> f7
+[INFO] - Viewport: 3440x1440
+[INFO] - Framebuffer Width: 3440 
+ Render Width: 1376 
+ Window Width: 3440 
+ Multiplier: 5.999990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 1376x576
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from local folder!
+[INFO] - Loading Repentance PersistentGameData from disk: C:\Users\Devin/Documents/My Games/Binding of Isaac Repentance/persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 1 from local folder!
+[INFO] - GameState Version Loaded: 144
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from local folder!
+[INFO] - Loading Repentance PersistentGameData from disk: C:\Users\Devin/Documents/My Games/Binding of Isaac Repentance/persistentgamedata2.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 2 from local folder!
+[INFO] - GameState Version Loaded: 138
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from local folder!
+[INFO] - Loading Repentance PersistentGameData from disk: C:\Users\Devin/Documents/My Games/Binding of Isaac Repentance/persistentgamedata3.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 3 from local folder!
+[INFO] - GameState Version Loaded: 144
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Isaac is shutting down...
+[INFO] - CPU time spent on enemy queries: 0.00 seconds.
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_inline_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_inline_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/hudpickupnumbers.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/bg paper.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/item.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to sprite/gt_exit.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/cursor.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to sprite/gt_ui.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to sprite/gt_ui.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/minimap_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/minimap0.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/Screen.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/carchara.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/waveBar.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/ui/buttons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_transform_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_transform_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_transform_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_player_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/005.100_collectible.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_cardspills.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_inline_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_inline_icons.anm2
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/eid_transform_icons.anm2
+[INFO] - Isaac has shut down successfully 
